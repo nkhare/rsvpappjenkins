@@ -11,3 +11,6 @@ dependencies:
 - alias: preview
   name: rsvpapp
   repository: file://../rsvpapp
+- name: mongodb-replicaset
+  repository: https://kubernetes-charts.storage.googleapis.com/
+  version: 3.5.5
